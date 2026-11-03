@@ -63,13 +63,6 @@ Explores customer ratings, satisfaction levels, and payment method distribution 
 - `Products.png` — Product analysis screenshot
 - `Customers.png` — Customer analysis screenshot
 
-## How to Use
-
-1. Clone or download this repository.
-2. Download the `.pbix` project file.
-3. Open the file using Microsoft Power BI Desktop.
-4. Explore the dashboard pages using the available filters and interactive visualizations.
-
 ## Project Objective
 
 This project was developed as a practical application of data analytics and business intelligence concepts.
