@@ -1,4 +1,4 @@
-# Indian Smartphone Market Analysis Dashboard | POWER BI
+# Indian Smartphone Market Analysis Dashboard | Power BI
 
 An interactive Power BI dashboard analyzing smartphone sales, product performance, and customer behavior across major Indian cities.
 
