@@ -81,7 +81,3 @@ The objective was to transform raw smartphone sales data into meaningful insight
 **Pranav Satalkar**
 
 Power BI | Data Analytics | Business Intelligence
-
----
-
-Feel free to explore the `.pbix` file in Power BI Desktop for interactive analysis.
